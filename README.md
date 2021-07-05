@@ -17,7 +17,7 @@ aplikasi mobile sebuah aplikasi pembantu. terdapat 2 aplikasi. yaitu zero calcul
 - Home
 <img width="20%" src="https://github.com/ideapedyudi/ideapedyudi-2HelperApps/blob/stable/Ss/Screenshot_2021-07-05-14-00-32-281_host.exp.exponent.jpg">
 
-- Zero Calculato
+- Zero Calculator
 
 <p>
   <img width="20%" src="https://github.com/ideapedyudi/ideapedyudi-2HelperApps/blob/stable/Ss/Screenshot_2021-07-05-14-00-35-606_host.exp.exponent.jpg">
